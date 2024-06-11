@@ -4,61 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ef61804-1cd4-40e8-887a-047994b48e84" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database.db.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.2.9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/user.3.9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset_created.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/detect_face.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/haarcascade_frontalface_default.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8ef61804-1cd4-40e8-887a-047994b48e84" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -284,7 +230,7 @@
       <workItem from="1717676009099" duration="94000" />
       <workItem from="1717676119049" duration="3174000" />
       <workItem from="1717755472641" duration="6718000" />
-      <workItem from="1718125086433" duration="15467000" />
+      <workItem from="1718125086433" duration="15870000" />
     </task>
     <servers />
   </component>
